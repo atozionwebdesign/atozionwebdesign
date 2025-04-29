@@ -12,18 +12,18 @@ I love solving problems, working with people, mentoring, coding 💻, crafting �
 ## TECH STACK
 ### Tools
 <p align="center">
-  Front-End
-  <img src="https://skillicons.dev/icons?i=git,docker,aws,azure" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,bootstrap,docker,express,figma,git,github,heroku,kubernetes,linux,mongodb,nginx,nodejs,postgres,py,rabbitmq,redux,selenium,tailwind,ubuntu,vue" />
 </p>
 
 ### Languages
 <p align="center">
-  Back-End<br/>
-    <img src="https://skillicons.dev/icons?i=git,docker,aws,azure" />
+    <img src="https://skillicons.dev/icons?i=cs,css,html,js,jquery,mysql,regex,sequelize,ts" />
 </p>
 
 ### Frameworks
-
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=angular,django,dotnet,nextjs,react,vue,wordpress" />
+</p>
 
 <!--
 **atozionwebdesign/atozionwebdesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

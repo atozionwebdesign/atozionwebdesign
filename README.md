@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-I am Ashley Stith, an experienced professional **Full-Stack Web/Mobile Developer**.  I love solving problems, working with people, mentoring, coding 💻, crafting 🔨 reading 📚, traveling ✈️, doing my nails 💅, and above all - being a Boy mom! ❤️
+I am Ashley Stith, an experienced professional **Full-Stack Web/Mobile Developer** with specific interest in React.js, Node.js, Django, Relational Database Management Systems (RDBMS), Cloud Computing, RESTFUL APIs, Data Visualization and Graphic Design.  
 
-- 🔭 I’m currently working on React/NextJS, NodeJS, AWS, Docker, MySQL, MongoDB
-- 🌱 I’m currently learning React Native, Java
+I love solving problems, working with people, mentoring, coding 💻, crafting 🔨, reading 📚, traveling ✈️, doing my nails 💅, and above all - being a Boy mom! ❤️
+
+- 🔭 I’m currently working with React/NextJS, Node.js, AWS, Docker, MySQL, MongoDB
+- 🌱 I’m always learning and seeking knowledge. Currently, I'm focused on deepening my knowledge of Machine Learning and AI
 - 👯 I’m looking to collaborate on new business ideas and opportunities
 - 💬 Ask me about life (I've lived a little 😄), working in tech (I've worked a little 😁), tech solutions (Learned A LOT! 🤓)
 
-## Connect with me:
+## Tools & Languages
+### Front-End
 
-## Technical Skills
-### Frameworks:
+### Back-End
+![AWS](https://img.icons8.com/?size=100&id=33039&format=png&color=000000 "AWS")
+
 
 
 <!--

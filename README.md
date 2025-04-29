@@ -11,30 +11,16 @@ I love solving problems, working with people, mentoring, coding 💻, crafting �
 
 ## TECH STACK
 ### Tools
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=aws,azure,bootstrap,docker,express,figma,git,github,heroku,kubernetes,linux,mongodb,nginx,nodejs,postgres,py,rabbitmq,redux,selenium,tailwind,ubuntu,vue" />
 </p>
 
 ### Languages
-<p align="center">
+<p>
     <img src="https://skillicons.dev/icons?i=cs,css,html,js,jquery,mysql,regex,sequelize,ts" />
 </p>
 
 ### Frameworks
-<p align="center">
+<p>
     <img src="https://skillicons.dev/icons?i=angular,django,dotnet,nextjs,react,vue,wordpress" />
 </p>
-
-<!--
-**atozionwebdesign/atozionwebdesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

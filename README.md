@@ -9,12 +9,20 @@ I love solving problems, working with people, mentoring, coding 💻, crafting �
 - 👯 I’m looking to collaborate on new business ideas and opportunities
 - 💬 Ask me about life (I've lived a little 😄), working in tech (I've worked a little 😁), tech solutions (Learned A LOT! 🤓)
 
-## Tools & Languages
-### Front-End
+## TECH STACK
+### Tools
+<p align="center">
+  Front-End
+  <img src="https://skillicons.dev/icons?i=git,docker,aws,azure" />
+</p>
 
-### Back-End
-![AWS](https://img.icons8.com/?size=100&id=33039&format=png&color=000000 "AWS")
+### Languages
+<p align="center">
+  Back-End<br/>
+    <img src="https://skillicons.dev/icons?i=git,docker,aws,azure" />
+</p>
 
+### Frameworks
 
 
 <!--

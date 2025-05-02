@@ -22,6 +22,7 @@ I love solving problems, working with people, mentoring, coding ðŸ’», crafting ð
 ![Kubernetes](https://skillicons.dev/icons?i=kubernetes "Kubernetes")
 ![Linux](https://skillicons.dev/icons?i=linux "Linux")
 ![MongoDB](https://skillicons.dev/icons?i=mongodb "MongoDB")
+![MySQL](https://skillicons.dev/icons?i=mysql "MySQL")
 ![NGINX](https://skillicons.dev/icons?i=nginx "NGINX")
 ![Node.js](https://skillicons.dev/icons?i=nodejs "Node.js")
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres "PostgreSQL")
@@ -30,14 +31,24 @@ I love solving problems, working with people, mentoring, coding ðŸ’», crafting ð
 ![Selenium](https://skillicons.dev/icons?i=selenium "Selenium")
 ![TailwindCSS](https://skillicons.dev/icons?i=tailwind "TailwindCSS")
 ![Ubuntu](https://skillicons.dev/icons?i=ubuntu "Ubuntu")
-![Vue.js](https://skillicons.dev/icons?i=vue "Vue.js")
 
 ### Languages
-<p>
-    <img src="https://skillicons.dev/icons?i=cs,css,html,js,jquery,mysql,py,regex,sequelize,ts" />
-</p>
+![C#](https://skillicons.dev/icons?i=cs "C#")
+![CSS](https://skillicons.dev/icons?i=css "CSS")
+![HTML](https://skillicons.dev/icons?i=html "HTML")
+![JavaScript](https://skillicons.dev/icons?i=js "JavaScript")
+![jQuery](https://skillicons.dev/icons?i=jquery "jQuery")
+![Python](https://skillicons.dev/icons?i=py "Python")
+![RegEx](https://skillicons.dev/icons?i=regex "RegEx")
+![Sequelize](https://skillicons.dev/icons?i=sequelize "Sequelize")
+![TypeScript](https://skillicons.dev/icons?i=ts "TypeScript")
 
 ### Frameworks
-<p>
-    <img src="https://skillicons.dev/icons?i=angular,django,dotnet,express,nextjs,react,vue,wordpress" />
-</p>
+![Angular](https://skillicons.dev/icons?i=angular "Angular")
+![Django](https://skillicons.dev/icons?i=django "Django")
+![Microsoft .NET](https://skillicons.dev/icons?i=dotnet ".NET")
+![Express.js](https://skillicons.dev/icons?i=express "Express.js")
+![Next.js](https://skillicons.dev/icons?i=nextjs "Next.js")
+![React](https://skillicons.dev/icons?i=react "React")
+![Vue.js](https://skillicons.dev/icons?i=vue "Vue.js")
+![Wordpress](https://skillicons.dev/icons?i=wordpress "Wordpress")

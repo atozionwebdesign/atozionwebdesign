@@ -12,10 +12,8 @@ I love solving problems, working with people, mentoring, coding ðŸ’», crafting ð
 ## TECH STACK
 ### Tools
 ![Amazon Web Services](https://skillicons.dev/icons?i=aws "Amazon Web Services - AWS")
+![Microsoft Azure](https://skillicons.dev/icons?i=aws "Microsoft Azure")
 <p>
-  
-  <img src="https://skillicons.dev/icons?i=aws,azure,bootstrap,docker,express,figma,git,github,heroku,kubernetes,linux,mongodb,nginx,nodejs,postgres,py,rabbitmq,redux,selenium,tailwind,ubuntu,vue" />
-</p>
 
 ### Languages
 <p>

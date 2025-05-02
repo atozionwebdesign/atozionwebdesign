@@ -6,7 +6,6 @@ I love solving problems, working with people, mentoring, coding 💻, crafting �
 
 - 🔭 I’m currently working with React/NextJS, Node.js, AWS, Docker, MySQL, MongoDB
 - 🌱 I’m always learning and seeking knowledge. Currently, I'm focused on deepening my knowledge of Machine Learning and AI
-- 👯 I’m looking to collaborate on new business ideas and opportunities
 - 💬 Ask me about life (I've lived a little 😄), working in tech (I've worked a little 😁), tech solutions (Learned A LOT! 🤓)
 
 ## TECH STACK

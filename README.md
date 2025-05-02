@@ -12,15 +12,32 @@ I love solving problems, working with people, mentoring, coding ðŸ’», crafting ð
 ## TECH STACK
 ### Tools
 ![Amazon Web Services](https://skillicons.dev/icons?i=aws "Amazon Web Services - AWS")
-![Microsoft Azure](https://skillicons.dev/icons?i=aws "Microsoft Azure")
-<p>
+![Microsoft Azure](https://skillicons.dev/icons?i=azure "Microsoft Azure")
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap "Bootstrap")
+![Docker](https://skillicons.dev/icons?i=docker "Docker")
+![Figma](https://skillicons.dev/icons?i=figma "Figma")
+![Git](https://skillicons.dev/icons?i=git "Git")
+![GitHub](https://skillicons.dev/icons?i=github "GitHub")
+![Heroku](https://skillicons.dev/icons?i=heroku "Heroku")
+![Kubernetes](https://skillicons.dev/icons?i=kubernetes "Kubernetes")
+![Linux](https://skillicons.dev/icons?i=linux "Linux")
+![MongoDB](https://skillicons.dev/icons?i=mongodb "MongoDB")
+![NGINX](https://skillicons.dev/icons?i=nginx "NGINX")
+![Node.js](https://skillicons.dev/icons?i=nodejs "Node.js")
+![PostgreSQL](https://skillicons.dev/icons?i=postgres "PostgreSQL")
+![RabbitMQ](https://skillicons.dev/icons?i=rabbitmq "RabbitMQ")
+![Redux](https://skillicons.dev/icons?i=redux "Redux")
+![Selenium](https://skillicons.dev/icons?i=selenium "Selenium")
+![TailwindCSS](https://skillicons.dev/icons?i=tailwind "TailwindCSS")
+![Ubuntu](https://skillicons.dev/icons?i=ubuntu "Ubuntu")
+![Vue.js](https://skillicons.dev/icons?i=vue "Vue.js")
 
 ### Languages
 <p>
-    <img src="https://skillicons.dev/icons?i=cs,css,html,js,jquery,mysql,regex,sequelize,ts" />
+    <img src="https://skillicons.dev/icons?i=cs,css,html,js,jquery,mysql,py,regex,sequelize,ts" />
 </p>
 
 ### Frameworks
 <p>
-    <img src="https://skillicons.dev/icons?i=angular,django,dotnet,nextjs,react,vue,wordpress" />
+    <img src="https://skillicons.dev/icons?i=angular,django,dotnet,express,nextjs,react,vue,wordpress" />
 </p>
